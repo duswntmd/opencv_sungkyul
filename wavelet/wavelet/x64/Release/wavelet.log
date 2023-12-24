@@ -1,0 +1,26 @@
+﻿  wavelet.cpp
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(75,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(94,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(113,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(132,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(223,17): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(223,17): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(261,9): warning C4475: 'printf' : 길이 한정자 'I'은(는) 서식 지정자에서 형식 필드 문자 'f'과(와) 함께 사용할 수 없습니다.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(320,2): error C2664: 'void read_dmatrix(int,int,double **,const char *)': 인수 4을(를) 'int'에서 'const char *'(으)로 변환할 수 없습니다.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(320,63): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(89,6): message : 'read_dmatrix' 선언을 참조하십시오.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(320,2): message : 인수 목록 '(int, int, double **, int)'을(를) 일치시키는 동안
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(323,2): error C2664: 'void write_dmatrix(int,int,double **,const char *)': 인수 4을(를) 'int'에서 'const char *'(으)로 변환할 수 없습니다.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(323,62): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(127,6): message : 'write_dmatrix' 선언을 참조하십시오.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(323,2): message : 인수 목록 '(int, int, double **, int)'을(를) 일치시키는 동안
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(325,2): error C2664: 'void write_ucmatrix(int,int,uchar **,const char *)': 인수 4을(를) 'int'에서 'const char *'(으)로 변환할 수 없습니다.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(325,63): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(108,6): message : 'write_ucmatrix' 선언을 참조하십시오.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(325,2): message : 인수 목록 '(int, int, uchar **, int)'을(를) 일치시키는 동안
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(361,2): error C2664: 'void write_dmatrix(int,int,double **,const char *)': 인수 4을(를) 'int'에서 'const char *'(으)로 변환할 수 없습니다.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(361,53): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(127,6): message : 'write_dmatrix' 선언을 참조하십시오.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(361,2): message : 인수 목록 '(int, int, double **, int)'을(를) 일치시키는 동안
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(441,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\wavelet\wavelet\wavelet.cpp(443,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

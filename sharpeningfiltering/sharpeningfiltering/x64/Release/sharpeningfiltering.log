@@ -1,0 +1,15 @@
+﻿  sharpeningfiltering.cpp
+C:\Users\연주승\source\repos\sharpeningfiltering\sharpeningfiltering\sharpeningfiltering.cpp(151,17): warning C4101: 'coeff' :참조되지 않은 지역 변수입니다.
+C:\Users\연주승\source\repos\sharpeningfiltering\sharpeningfiltering\sharpeningfiltering.cpp(214,21): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+C:\Users\연주승\source\repos\sharpeningfiltering\sharpeningfiltering\sharpeningfiltering.cpp(363,21): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\연주승\source\repos\sharpeningfiltering\sharpeningfiltering\sharpeningfiltering.cpp(368,21): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\연주승\source\repos\sharpeningfiltering\sharpeningfiltering\sharpeningfiltering.cpp(339,17): warning C4101: 'coeff' :참조되지 않은 지역 변수입니다.
+C:\Users\연주승\source\repos\sharpeningfiltering\sharpeningfiltering\sharpeningfiltering.cpp(379,28): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\연주승\source\repos\sharpeningfiltering\sharpeningfiltering\sharpeningfiltering.cpp(379,25): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/LTCG' 사양으로 인해 무시됩니다.
+  코드를 생성하고 있습니다.
+  1 of 17 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  sharpeningfiltering.vcxproj -> C:\Users\연주승\source\repos\sharpeningfiltering\x64\Release\sharpeningfiltering.exe
