@@ -1,0 +1,21 @@
+﻿  histogramspecification.cpp
+C:\Users\연주승\source\repos\histogramspecification\histogramspecification\histogramspecification.cpp(45,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\histogramspecification\histogramspecification\histogramspecification.cpp(64,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\histogramspecification\histogramspecification\histogramspecification.cpp(123,24): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\연주승\source\repos\histogramspecification\histogramspecification\histogramspecification.cpp(140,24): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\연주승\source\repos\histogramspecification\histogramspecification\histogramspecification.cpp(82,23): warning C4101: 'hrange' :참조되지 않은 지역 변수입니다.
+C:\Users\연주승\source\repos\histogramspecification\histogramspecification\histogramspecification.cpp(207,24): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\연주승\source\repos\histogramspecification\histogramspecification\histogramspecification.cpp(226,24): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\연주승\source\repos\histogramspecification\histogramspecification\histogramspecification.cpp(166,23): warning C4101: 'hrange' :참조되지 않은 지역 변수입니다.
+C:\Users\연주승\source\repos\histogramspecification\histogramspecification\histogramspecification.cpp(269,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\연주승\source\repos\histogramspecification\histogramspecification\histogramspecification.cpp(275,27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\연주승\source\repos\histogramspecification\histogramspecification\histogramspecification.cpp(273,50): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+C:\Users\연주승\source\repos\histogramspecification\histogramspecification\histogramspecification.cpp(251,15): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+C:\Users\연주승\source\repos\histogramspecification\histogramspecification\histogramspecification.cpp(305,25): warning C4101: 'cdfOfHisto' :참조되지 않은 지역 변수입니다.
+C:\Users\연주승\source\repos\histogramspecification\histogramspecification\histogramspecification.cpp(305,42): warning C4101: 'histogramEqual' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  3 of 12 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  histogramspecification.vcxproj -> C:\Users\연주승\source\repos\histogramspecification\x64\Release\histogramspecification.exe

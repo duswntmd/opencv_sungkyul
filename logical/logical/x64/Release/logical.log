@@ -1,0 +1,10 @@
+﻿  logical.cpp
+C:\Users\연주승\source\repos\logical\logical\logical.cpp(38,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\logical\logical\logical.cpp(57,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다.
+C:\Users\연주승\source\repos\logical\logical\logical.cpp(177): warning C4700: 초기화되지 않은 'Result' 지역 변수를 사용했습니다.
+  2 of 18 functions (11.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  logical.vcxproj -> C:\Users\연주승\source\repos\logical\x64\Release\logical.exe
