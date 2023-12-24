@@ -1,0 +1,8 @@
+﻿  dispcv.cpp
+  코드를 생성하고 있습니다.
+D:\전체수업파일\영상처리실습\dispcv\dispcv\dispcv.cpp(179): warning C4700: 초기화되지 않은 'Result' 지역 변수를 사용했습니다.
+  14 of 15 functions (93.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  dispcv.vcxproj -> D:\전체수업파일\영상처리실습\dispcv\x64\Release\dispcv.exe
