@@ -1,0 +1,22 @@
+﻿  gaussianfft.cpp
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(75,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(94,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(113,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(132,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(376,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(380,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(386,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(387,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(428,9): warning C4475: 'printf' : 길이 한정자 'I'은(는) 서식 지정자에서 형식 필드 문자 'f'과(와) 함께 사용할 수 없습니다.
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(444,48): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(455,48): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(463,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(465,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(318,8): warning C4101: 'fp1' :참조되지 않은 지역 변수입니다.
+C:\Users\연주승\source\repos\gaussianfft\gaussianfft\gaussianfft.cpp(315,16): warning C4101: 'flag' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  1 of 17 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  gaussianfft.vcxproj -> C:\Users\연주승\source\repos\gaussianfft\x64\Release\gaussianfft.exe
