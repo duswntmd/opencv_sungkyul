@@ -1,0 +1,12 @@
+﻿  medianfiltering.cpp
+C:\Users\연주승\source\repos\medianfiltering\medianfiltering\medianfiltering.cpp(103,17): warning C4101: 'coeff' :참조되지 않은 지역 변수입니다.
+C:\Users\연주승\source\repos\medianfiltering\medianfiltering\medianfiltering.cpp(166,21): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+C:\Users\연주승\source\repos\medianfiltering\medianfiltering\medianfiltering.cpp(199,28): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\연주승\source\repos\medianfiltering\medianfiltering\medianfiltering.cpp(199,25): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/LTCG' 사양으로 인해 무시됩니다.
+  코드를 생성하고 있습니다.
+  1 of 15 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  medianfiltering.vcxproj -> C:\Users\연주승\source\repos\medianfiltering\x64\Release\medianfiltering.exe
